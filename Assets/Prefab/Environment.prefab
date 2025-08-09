@@ -10687,6 +10687,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GroundFlower_001
       objectReference: {fileID: 0}
+    - target: {fileID: 5024229969112900243, guid: dc039a4dd2feb1040b2357792be1505f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5688739180749322281, guid: dc039a4dd2feb1040b2357792be1505f, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.164373
@@ -10748,6 +10752,10 @@ PrefabInstance:
     - target: {fileID: 8613049357029381422, guid: c8592ae1c51f03e4a8f78ce59a6433b9, type: 3}
       propertyPath: m_Name
       value: Rock_002
+      objectReference: {fileID: 0}
+    - target: {fileID: 8613049357029381422, guid: c8592ae1c51f03e4a8f78ce59a6433b9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8992670776311467924, guid: c8592ae1c51f03e4a8f78ce59a6433b9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10851,6 +10859,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spruce_008 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7646758127176492012, guid: f94ff99c261e9924bbbb894292ced45c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10913,6 +10925,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Grass_010
       objectReference: {fileID: 0}
+    - target: {fileID: 4113537362032148872, guid: 7e0298cfa9c270045ada310676eabd82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10934,6 +10950,10 @@ PrefabInstance:
     - target: {fileID: 142542118532182362, guid: e2896a4832c1fe84f82ec5e46d3dd9ac, type: 3}
       propertyPath: m_Name
       value: Ash (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 142542118532182362, guid: e2896a4832c1fe84f82ec5e46d3dd9ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 770601390196403168, guid: e2896a4832c1fe84f82ec5e46d3dd9ac, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11037,6 +11057,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rock
       objectReference: {fileID: 0}
+    - target: {fileID: 7762856170357784386, guid: 1f761016c03a561418ff210aec563e01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11099,6 +11123,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushroom
       objectReference: {fileID: 0}
+    - target: {fileID: 4097346942072690708, guid: 2bc31016d298c8447a75638720d97118, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11120,6 +11148,10 @@ PrefabInstance:
     - target: {fileID: 142542118532182362, guid: e2896a4832c1fe84f82ec5e46d3dd9ac, type: 3}
       propertyPath: m_Name
       value: Ash
+      objectReference: {fileID: 0}
+    - target: {fileID: 142542118532182362, guid: e2896a4832c1fe84f82ec5e46d3dd9ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 770601390196403168, guid: e2896a4832c1fe84f82ec5e46d3dd9ac, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11223,6 +11255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushroom_002
       objectReference: {fileID: 0}
+    - target: {fileID: 5314847637665799501, guid: f2612ce08bab1de44b3c77b0ccafd3a6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11244,6 +11280,10 @@ PrefabInstance:
     - target: {fileID: 4925454054329650029, guid: a8e680f051c6aee41b2160a410385b6f, type: 3}
       propertyPath: m_Name
       value: OakClutter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925454054329650029, guid: a8e680f051c6aee41b2160a410385b6f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5697452588453319127, guid: a8e680f051c6aee41b2160a410385b6f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11347,6 +11387,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: OakStump_003
       objectReference: {fileID: 0}
+    - target: {fileID: 4241153631697193139, guid: 21a773186cca17b4792a72b556c124d5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11408,6 +11452,10 @@ PrefabInstance:
     - target: {fileID: 4498374646528580083, guid: 421e523c7ac7d3844a044afcece2ce2e, type: 3}
       propertyPath: m_Name
       value: Grass_012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4498374646528580083, guid: 421e523c7ac7d3844a044afcece2ce2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11471,6 +11519,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushroom_001
       objectReference: {fileID: 0}
+    - target: {fileID: 3289464266404052115, guid: 25d2db3cddabd5044b15df3087fb148b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11532,6 +11584,10 @@ PrefabInstance:
     - target: {fileID: 1015316157352447657, guid: 9ada62ba54a89424590fefd04a1f15af, type: 3}
       propertyPath: m_Name
       value: Rock_005
+      objectReference: {fileID: 0}
+    - target: {fileID: 1015316157352447657, guid: 9ada62ba54a89424590fefd04a1f15af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11595,6 +11651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Oak
       objectReference: {fileID: 0}
+    - target: {fileID: 6577857602279842889, guid: 6ecd8b4bc211e454ea918d6d527c28f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11616,6 +11676,10 @@ PrefabInstance:
     - target: {fileID: 4774666079821478659, guid: 6b64bef7dd1443e4c89a39b17dc78b9d, type: 3}
       propertyPath: m_Name
       value: Mushroom_003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4774666079821478659, guid: 6b64bef7dd1443e4c89a39b17dc78b9d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5262690549578457529, guid: 6b64bef7dd1443e4c89a39b17dc78b9d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11679,6 +11743,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rock_013
       objectReference: {fileID: 0}
+    - target: {fileID: 8498971446905571726, guid: d461bde81a31c7546b8ca4bd4de3b937, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9131533322299560756, guid: d461bde81a31c7546b8ca4bd4de3b937, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.2106156
@@ -11740,6 +11808,10 @@ PrefabInstance:
     - target: {fileID: 6269511938159980332, guid: f9d865e39e587894da6ceae134fbdec6, type: 3}
       propertyPath: m_Name
       value: AshClutter_002
+      objectReference: {fileID: 0}
+    - target: {fileID: 6269511938159980332, guid: f9d865e39e587894da6ceae134fbdec6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6650153429709157782, guid: f9d865e39e587894da6ceae134fbdec6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11843,6 +11915,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rock_004
       objectReference: {fileID: 0}
+    - target: {fileID: 6850010492682168882, guid: f4b79a7031b5c86419d3d72d1a125974, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11864,6 +11940,10 @@ PrefabInstance:
     - target: {fileID: 5852783589043031002, guid: c5c1f69e7a996f9469c5fa7ea3cadb5f, type: 3}
       propertyPath: m_Name
       value: Grass_016
+      objectReference: {fileID: 0}
+    - target: {fileID: 5852783589043031002, guid: c5c1f69e7a996f9469c5fa7ea3cadb5f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6517433267666620768, guid: c5c1f69e7a996f9469c5fa7ea3cadb5f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11967,6 +12047,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spruce_008
       objectReference: {fileID: 0}
+    - target: {fileID: 7646758127176492012, guid: f94ff99c261e9924bbbb894292ced45c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12051,6 +12135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GroundFlower
       objectReference: {fileID: 0}
+    - target: {fileID: 7024344801386700744, guid: 736026f95ebcfc24e807558ccebc616a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7651805766595396978, guid: 736026f95ebcfc24e807558ccebc616a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.3486795
@@ -12112,6 +12200,10 @@ PrefabInstance:
     - target: {fileID: 142542118532182362, guid: e2896a4832c1fe84f82ec5e46d3dd9ac, type: 3}
       propertyPath: m_Name
       value: Ash
+      objectReference: {fileID: 0}
+    - target: {fileID: 142542118532182362, guid: e2896a4832c1fe84f82ec5e46d3dd9ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 770601390196403168, guid: e2896a4832c1fe84f82ec5e46d3dd9ac, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12214,6 +12306,10 @@ PrefabInstance:
     - target: {fileID: 6577857602279842889, guid: 6ecd8b4bc211e454ea918d6d527c28f7, type: 3}
       propertyPath: m_Name
       value: Oak
+      objectReference: {fileID: 0}
+    - target: {fileID: 6577857602279842889, guid: 6ecd8b4bc211e454ea918d6d527c28f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
